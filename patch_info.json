@@ -1,10 +1,9 @@
 {
 	"Version":"3",
-	"Host":"https://jellybitz.github.io/AppUpdater/AppDemo/web/3/",
+	"Host":"https://github.com/SkyDixx/CharlesEX",
 	"Files":
 	[
-		"AppDemo.exe",
-		"Media/videos/Handong-Dreamcatcher.mp4"
+		"Handong-Dreamcatcher.mp4"
 	],
-	"PatchRequiredUrl":"https://jellybitz.github.io/AppUpdater/AppDemo/web/2/patch_info.json"
+	"PatchRequiredUrl":"https://github.com/SkyDixx/CharlesEX/patch_info.json"
 }
